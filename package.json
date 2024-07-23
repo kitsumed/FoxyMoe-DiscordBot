@@ -1,0 +1,23 @@
+{
+  "name": "foxymoe",
+  "version": "2.0.0",
+  "description": "FoxyMoe is a discord bot that communicates via the oobabooga webui API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kitsumed",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.0",
+    "@orama/orama": "^2.0.18",
+    "axios": "^1.6.8",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.11",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
