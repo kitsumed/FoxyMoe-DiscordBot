@@ -86,7 +86,7 @@ This guide assume your already have installed Oobabooga webui, a model inside th
    ```cmd
    npm install
    ```
-5. Configure your environement file (.env)
+5. Create a .env file in the root of the repo and configure your environement file with the following settings:
 
    If you are unsure about your LLM informations, go back to where you downloaded the model, example of the Instruction Template and chat mode should be mentioned.
    ```env
