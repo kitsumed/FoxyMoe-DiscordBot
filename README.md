@@ -186,11 +186,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge
 [contributors-url]: https://github.com/kitsumed/FoxyMoe-DiscordBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge&label=forks
 [forks-url]: https://github.com/kitsumed/FoxyMoe-DiscordBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge&label=stars
 [stars-url]: https://github.com/kitsumed/FoxyMoe-DiscordBot/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge
 [issues-url]: https://github.com/kitsumed/FoxyMoe-DiscordBot/issues
-[license-shield]: https://img.shields.io/github/license/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge&label=license
 [license-url]: https://github.com/kitsumed/FoxyMoe-DiscordBot/blob/main/LICENSE
