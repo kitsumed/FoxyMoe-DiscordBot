@@ -66,6 +66,8 @@ FoxyMoe was a project I started around 2022 as a joke between friends. At the ti
 ### Prerequisites
 1. [Node.js](https://nodejs.org)
 2. [Oobabooga WebUI (Github repo)](https://github.com/oobabooga/text-generation-webui) Follow the installation procedure in their [readme](https://github.com/oobabooga/text-generation-webui?tab=readme-ov-file#how-to-install)
+> [!CAUTION]
+> The chat bot showcase was done on oobabooga webui **v1.10.1**. If you plan to use embeddings (vector search) for the long term memory, you may have a problem with oobabooga as a module is missing. Please refer to [this issue](https://github.com/oobabooga/text-generation-webui/issues/4836#issuecomment-2241726323) to correct it.
 
 ### Installation
 This guide assume your already have installed Oobabooga webui, a model inside the webui and created a Discord Bot.
@@ -139,7 +141,7 @@ Note that if you've restarted the bot after loading a ObaBogaInstance, the bot w
 
 ### How do I edit a ObaBogaInstance?
 > [!WARNING]
-> Note that if you're updating the instance currently loaded, you will need to reload the instance to get the new configuration
+> If you're updating the instance currently loaded, you will need to reload the instance to get the new configuration
 
 To edit a ObaBogaInstance, go into your discord server and write  `/config ai_text_generation edit id:VALUE`.
 
