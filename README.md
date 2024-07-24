@@ -24,7 +24,7 @@
     <br/>
     <b>Chat Bot Showcase</b>
     <video src="https://github.com/user-attachments/assets/259b8472-8421-4570-bc13-53abd0f1b94c"></video>
-    
+    <a href="SHOWCASE.md">See showcase configurations</a>
   </p>
 </div>
 
