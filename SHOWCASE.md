@@ -6,7 +6,7 @@
 The model I used for the preview was created by [TheBloke](https://huggingface.co/TheBloke).
 It is the `dolphin-2.1-mistral-7B-GPTQ` model, [4bit-64g branch](https://huggingface.co/TheBloke/dolphin-2.1-mistral-7B-GPTQ/tree/gptq-4bit-64g-actorder_True).
 Here's my .env configuration
-```text
+```env
 OobaboogaApiEndpoint=http://127.0.0.1:5000
 OobaboogaModelName=TheBloke_dolphin-2.1-mistral-7B-GPTQ_gptq-4bit-64g-actorder_True__ChatML
 OobaboogaUseEmbeddings=true
