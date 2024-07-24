@@ -23,7 +23,7 @@
     <br/>
     <br/>
     Chat Bot Showcase
-    <video controls src="https://github.com/kitsumed/FoxyMoe-DiscordBot/raw/main/MEDIA/showcase_ai_txt.mp4" title="FoxyMoe Chat Bot Showcase"></video>
+    https://github.com/user-attachments/assets/259b8472-8421-4570-bc13-53abd0f1b94c
   </p>
 </div>
 
