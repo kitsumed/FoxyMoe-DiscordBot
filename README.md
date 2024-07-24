@@ -101,6 +101,9 @@ This guide assume your already have installed Oobabooga webui, a model inside th
    OobaboogaInstructionTemplateName=YOUR_MODEL_INSTRUCTION_TEMPLATE
    ChatAiChannelID=YOUR_DISCORD_CHANNEL_ID
    ```
+  > [!NOTE]
+  > Some values like the prompt temperature are hard-coded inside the ObaBogaAPI module. All Models should always work as the hard-coded values are only having a effect on the LLM completion generation, but they won't always achieve the best results possible.
+
 6. Deploy the commands to your Discord guild
    ```cmd
    node .\deploy-commands.js
