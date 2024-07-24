@@ -20,7 +20,9 @@
   <h3 align="center">FoxyMoe Discord Bot</h3>
   <p align="center">
     FoxyMoe is a discord bot written with discord.js. This is a chat bot that communicates via the oobabooga webui API.
-    <br />
+    <br/>
+    Chat Bot Showcase
+    <video controls src="MEDIA/showcase_ai_txt.mp4" title="FoxyMoe Chat Bot Showcase"></video>
   </p>
 </div>
 
@@ -190,5 +192,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 [issues-url]: https://github.com/kitsumed/FoxyMoe-DiscordBot/issues
 [license-shield]: https://img.shields.io/github/license/kitsumed/FoxyMoe-DiscordBot?style=for-the-badge
 [license-url]: https://github.com/kitsumed/FoxyMoe-DiscordBot/blob/main/LICENSE
-
-[product-screenshot]: images/screenshot.png 
