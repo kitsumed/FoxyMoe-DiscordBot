@@ -22,8 +22,9 @@
     FoxyMoe is a discord bot written with discord.js. This is a chat bot that communicates via the oobabooga webui API.
     <br/>
     <br/>
-    Chat Bot Showcase
-    https://github.com/user-attachments/assets/259b8472-8421-4570-bc13-53abd0f1b94c
+    <b>Chat Bot Showcase</b>
+    <video src="https://github.com/user-attachments/assets/259b8472-8421-4570-bc13-53abd0f1b94c"></video>
+    
   </p>
 </div>
 
