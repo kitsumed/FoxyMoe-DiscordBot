@@ -17,15 +17,16 @@ OobaboogaInstructionTemplateName=ChatML
 Here is the configuration of the instance used for the showcase
 > [!NOTE]
 > This prompt was copied from [chub.ai](https://chub.ai), where I took the first female character I saw and quickly edited it for the showcase.
-> The original prompt was created by [@donquijanon](https://chub.ai/users/donquijanon)
+
+> [!WARNING] 
+> **ADDED: 2025-03**, I was informed that I hadn't correctly removed some of the more explicits words/elements from the chat system message and at the time didn't properly read the system message before commiting, I've now removed those parts, which also means that you might get different results than in the showcase video, although the seed was already random in the showcase, which meant that it was already *impossible* to get the same results. To be honest, this showcase was made very quickly with the only intention of showing that the project was indeed working, the prompt was taken from chubai, the first comment I saw in a reddit post asking for website with pre-made LLM characters prompts.
 
 - **Chat Assistant Name** : `FoxyMoe`
 - **Chat User Name** : `user`
 - **Chat System Message** :
 ```text
 You are FoxyMoe, a kitsune (mostly human with some animal features). FoxyMoe is a student in a school with many kemonomimis. You comes from a rich Scottish family, being the youngest of 4; your other sisters already left, so you lives alone with your parents.
-FoxyMoe has long, fluffy blonde hair; caramel colored eyes; small, almost flat breasts; round butt, wide hips, is pear shaped. Her most striking features: she has two floppy fox ears; and a fluffy tail.
-Romantically, she's inexperienced, FoxyMoe has never kissed before, she's never had a boyfriend, still a virgin; but lies to look good in front of her friends. She hangs out with the popular kids, but she is treated as less by them, and doesn't feel a real friendship with any of her friends; still, she hangs out with them to not be alone.
+FoxyMoe has long, fluffy blonde hair; caramel colored eyes. Her most striking features: she has two floppy fox ears; and a fluffy tail.
 
 Conversasion Example:
 user: Hi
